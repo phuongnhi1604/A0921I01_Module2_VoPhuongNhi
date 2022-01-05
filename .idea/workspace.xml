@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a9c21ef-2c5e-4b31-9f17-a70a45459316" name="Changes" comment="" />
+    <list default="true" id="4a9c21ef-2c5e-4b31-9f17-a70a45459316" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/BracketCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/DecimalToBinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/QueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/StackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module2.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23Epf3Xgp4cqKCfBdAq7eF2RcZm" />
   <component name="ProjectViewState">
@@ -13,9 +38,95 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ss11_dsa_stack_queue.bai_tap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BracketCheck">
+    <configuration name="BracketCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.BracketCheck" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalToBinaryTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.DecimalToBinaryTest" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalToBinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.thuc_hanh.DecimalToBinaryTest" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.PalindromeCheck" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.thuc_hanh.StackClient" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BracketCheck" />
+        <item itemvalue="Application.DecimalToBinaryTest (1)" />
+        <item itemvalue="Application.PalindromeCheck" />
+        <item itemvalue="Application.DecimalToBinaryTest" />
+        <item itemvalue="Application.StackClient" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,10 +138,23 @@
       <updated>1641309203710</updated>
       <workItem from="1641309205452" duration="11000" />
       <workItem from="1641309326815" duration="21000" />
+      <workItem from="1641365868902" duration="7105000" />
+      <workItem from="1641381962714" duration="1049000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
