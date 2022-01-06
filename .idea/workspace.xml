@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9c21ef-2c5e-4b31-9f17-a70a45459316" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/BracketCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/DecimalToBinaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/PalindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/QueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/StackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/MainCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/StudentComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/TestMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <recent name="ss11_dsa_stack_queue.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BracketCheck">
+  <component name="RunManager" selected="Application.CharacterCount">
     <configuration name="BracketCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.BracketCheck" />
       <module name="Module2" />
@@ -66,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalToBinaryTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.DecimalToBinaryTest" />
+    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.CharacterCount" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalToBinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.thuc_hanh.DecimalToBinaryTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.Main" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.PalindromeCheck" />
+    <configuration name="MainCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.MainCompare" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.thuc_hanh.StackClient" />
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.TestMap" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharacterCount" />
+        <item itemvalue="Application.MainCompare" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestMap" />
         <item itemvalue="Application.BracketCheck" />
-        <item itemvalue="Application.DecimalToBinaryTest (1)" />
-        <item itemvalue="Application.PalindromeCheck" />
-        <item itemvalue="Application.DecimalToBinaryTest" />
-        <item itemvalue="Application.StackClient" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +136,9 @@
       <workItem from="1641309205452" duration="11000" />
       <workItem from="1641309326815" duration="21000" />
       <workItem from="1641365868902" duration="7105000" />
-      <workItem from="1641381962714" duration="1049000" />
+      <workItem from="1641381962714" duration="4319000" />
+      <workItem from="1641457637360" duration="1223000" />
+      <workItem from="1641470933100" duration="928000" />
     </task>
     <servers />
   </component>
