@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9c21ef-2c5e-4b31-9f17-a70a45459316" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/bai_tap/CharacterCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/MainCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/StudentComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/MainProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/ProductManagerLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss12_java_collection_framework/thuc_hanh/MainCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss12_java_collection_framework/thuc_hanh/MainCompare.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +47,7 @@
       <recent name="ss11_dsa_stack_queue.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharacterCount">
-    <configuration name="BracketCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.BracketCheck" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss11_dsa_stack_queue.bai_tap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainProduct">
     <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss11_dsa_stack_queue.bai_tap.CharacterCount" />
       <module name="Module2" />
@@ -102,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.bai_tap.MainProduct" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss12_java_collection_framework.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.TestMap" />
       <module name="Module2" />
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainProduct" />
         <item itemvalue="Application.CharacterCount" />
         <item itemvalue="Application.MainCompare" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestMap" />
-        <item itemvalue="Application.BracketCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +136,9 @@
       <workItem from="1641365868902" duration="7105000" />
       <workItem from="1641381962714" duration="4319000" />
       <workItem from="1641457637360" duration="1223000" />
-      <workItem from="1641470933100" duration="928000" />
+      <workItem from="1641470933100" duration="1207000" />
+      <workItem from="1641536272252" duration="2454000" />
+      <workItem from="1641551711648" duration="10990000" />
     </task>
     <servers />
   </component>
