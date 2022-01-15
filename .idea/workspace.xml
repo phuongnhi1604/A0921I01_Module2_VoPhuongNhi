@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9c21ef-2c5e-4b31-9f17-a70a45459316" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss13_search_algorithm/bai_tap/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss13_search_algorithm/bai_tap/ConsecutiveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss13_search_algorithm/bai_tap/MaxLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss13_search_algorithm/thuc_hanh/AlgorithmComplexityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss13_search_algorithm/thuc_hanh/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/bai_tap/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/bai_tap/InsertSortByStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/thuc_hanh/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/thuc_hanh/BubbleSortByStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/thuc_hanh/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/bai_tap/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/bai_tap/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/bai_tap/TriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/LinearEquationResolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss12_java_collection_framework/bai_tap/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss12_java_collection_framework/bai_tap/Product.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +50,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FuramaResort" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ss15_exception_debug.bai_tap" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ss11_dsa_stack_queue.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.thuc_hanh.BubbleSort" />
+  <component name="RunManager" selected="Application.X">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.ArrayExample" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algorithm.thuc_hanh.*" />
+          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortByStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.thuc_hanh.BubbleSortByStep" />
+    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.CalculationExample" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algorithm.thuc_hanh.*" />
+          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.bai_tap.InsertSort" />
+    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.LinearEquationResolver" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algorithm.bai_tap.*" />
+          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertSortByStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.bai_tap.InsertSortByStep" />
+    <configuration name="TriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.bai_tap.TriangleException" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algorithm.bai_tap.*" />
+          <option name="PATTERN" value="ss15_exception_debug.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.thuc_hanh.SelectionSort" />
+    <configuration name="X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.X" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algorithm.thuc_hanh.*" />
+          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.InsertSortByStep" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSortByStep" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.X" />
+        <item itemvalue="Application.CalculationExample" />
+        <item itemvalue="Application.TriangleException" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.LinearEquationResolver" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +156,9 @@
       <workItem from="1641811375252" duration="8136000" />
       <workItem from="1641973641226" duration="1973000" />
       <workItem from="1641990379102" duration="2569000" />
+      <workItem from="1641998224401" duration="12000" />
+      <workItem from="1642077988580" duration="4890000" />
+      <workItem from="1642158095349" duration="6612000" />
     </task>
     <servers />
   </component>
@@ -173,5 +175,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="a != 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/LinearEquationResolver.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/LinearEquationResolver.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
