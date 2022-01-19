@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9c21ef-2c5e-4b31-9f17-a70a45459316" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/bai_tap/IllegalTriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/bai_tap/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/bai_tap/TriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/CalculationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_debug/thuc_hanh/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/CopyFileText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/ReadCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/country.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/FindMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/ReadAndWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/ReadFileExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss15_exception_debug/thuc_hanh/X.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +64,21 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ss15_exception_debug.bai_tap" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\A0921I01_VoPhuongNhi\Module2\src\ss16_io_text_file" />
+      <recent name="D:\A0921I01_VoPhuongNhi\Module2\src\ss16_io_text_file\thuc_hanh" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ss11_dsa_stack_queue.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.X">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.ArrayExample" />
+  <component name="RunManager" selected="Application.CopyFileText">
+    <configuration name="CopyFileText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap.CopyFileText" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
+          <option name="PATTERN" value="ss16_io_text_file.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.CalculationExample" />
+    <configuration name="FindMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.thuc_hanh.FindMaxValue" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
+          <option name="PATTERN" value="ss16_io_text_file.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.LinearEquationResolver" />
+    <configuration name="ReadAndWriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.thuc_hanh.ReadAndWriteFile" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
+          <option name="PATTERN" value="ss16_io_text_file.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.bai_tap.TriangleException" />
+    <configuration name="ReadCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap.ReadCSV" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss15_exception_debug.bai_tap.*" />
+          <option name="PATTERN" value="ss16_io_text_file.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss15_exception_debug.thuc_hanh.X" />
+    <configuration name="ReadFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.thuc_hanh.ReadFileExample" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss15_exception_debug.thuc_hanh.*" />
+          <option name="PATTERN" value="ss16_io_text_file.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.X" />
-        <item itemvalue="Application.CalculationExample" />
-        <item itemvalue="Application.TriangleException" />
-        <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.LinearEquationResolver" />
+        <item itemvalue="Application.CopyFileText" />
+        <item itemvalue="Application.ReadCSV" />
+        <item itemvalue="Application.FindMaxValue" />
+        <item itemvalue="Application.ReadAndWriteFile" />
+        <item itemvalue="Application.ReadFileExample" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +171,11 @@
       <workItem from="1641998224401" duration="12000" />
       <workItem from="1642077988580" duration="4890000" />
       <workItem from="1642158095349" duration="6612000" />
+      <workItem from="1642302281312" duration="629000" />
+      <workItem from="1642324042346" duration="601000" />
+      <workItem from="1642417201812" duration="3392000" />
+      <workItem from="1642576937611" duration="1993000" />
+      <workItem from="1642580068359" duration="9777000" />
     </task>
     <servers />
   </component>
