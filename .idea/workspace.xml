@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9c21ef-2c5e-4b31-9f17-a70a45459316" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss17_io_binary_file_and_serialization/TestSite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_io_binary_file_and_serialization/bai_tap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_io_binary_file_and_serialization/bai_tap/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_io_binary_file_and_serialization/thuc_hanh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_io_binary_file_and_serialization/thuc_hanh/MainStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_io_binary_file_and_serialization/thuc_hanh/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/bai_tap/ClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/bai_tap/ClassNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/bai_tap/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/bai_tap/PhoneNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/thuc_hanh/AccountExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/thuc_hanh/AccountExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/thuc_hanh/CrawlSongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/thuc_hanh/EmailExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_and_regex/thuc_hanh/EmailExampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss16_io_text_file/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss16_io_text_file/target.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../binary_stream" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../String_Regex" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -66,13 +67,13 @@
       <recent name="ss11_dsa_stack_queue.bai_tap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="CopyFileText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap.CopyFileText" />
+  <component name="RunManager" selected="Application.ClassNameTest">
+    <configuration name="AccountExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_and_regex.thuc_hanh.AccountExampleTest" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss16_io_text_file.bai_tap.*" />
+          <option name="PATTERN" value="ss19_string_and_regex.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss17_io_binary_file_and_serialization.bai_tap.Main" />
+    <configuration name="ClassNameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_and_regex.bai_tap.ClassNameTest" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss17_io_binary_file_and_serialization.bai_tap.*" />
+          <option name="PATTERN" value="ss19_string_and_regex.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss17_io_binary_file_and_serialization.thuc_hanh.Main" />
+    <configuration name="CrawlSongExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_and_regex.thuc_hanh.CrawlSongExample" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss17_io_binary_file_and_serialization.thuc_hanh.*" />
+          <option name="PATTERN" value="ss19_string_and_regex.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss17_io_binary_file_and_serialization.thuc_hanh.MainStudent" />
+    <configuration name="EmailExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_and_regex.thuc_hanh.EmailExampleTest" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss17_io_binary_file_and_serialization.thuc_hanh.*" />
+          <option name="PATTERN" value="ss19_string_and_regex.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap.ReadCSV" />
+    <configuration name="PhoneNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_and_regex.bai_tap.PhoneNumberTest" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss16_io_text_file.bai_tap.*" />
+          <option name="PATTERN" value="ss19_string_and_regex.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.MainStudent" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CopyFileText" />
-        <item itemvalue="Application.ReadCSV" />
+        <item itemvalue="Application.ClassNameTest" />
+        <item itemvalue="Application.PhoneNumberTest" />
+        <item itemvalue="Application.CrawlSongExample" />
+        <item itemvalue="Application.AccountExampleTest" />
+        <item itemvalue="Application.EmailExampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,8 @@
       <workItem from="1642576937611" duration="1993000" />
       <workItem from="1642580068359" duration="10631000" />
       <workItem from="1642666674573" duration="58000" />
-      <workItem from="1642762184589" duration="4796000" />
+      <workItem from="1642762184589" duration="6228000" />
+      <workItem from="1643022148730" duration="5021000" />
     </task>
     <servers />
   </component>
